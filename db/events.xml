@@ -3,9 +3,9 @@
 
  <!-- ############### HORSE MOD ###################################### -->
     <event name="AnimalWildHorse">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>4</nominal>
+        <min>3</min>
+        <max>7</max>
         <lifetime>240</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
