@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<env>
+
+	<!-- GENERAL Territories Section -->
+	<territories>
+
+	<!-- ############### HORSE MOD ###################################### -->
+		<file path="env/horses_bitterroot.xml" />
+		
+		<territory type="Herd" name="WildHorse" behavior="DZDeerGroupBeh">
+			<file usable="horses_bitterroot" />
+		</territory>
+	<!-- ############### HORSE MOD ###################################### -->
+
+	</territories>
+</env>
